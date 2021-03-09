@@ -3,4 +3,4 @@ Naufal resolusi :
 2. Bisa React js dan React Native
 3. Bisa PHP dan Frameworknya (Codeigniter)
 4. Khatam Laravel
-5. Banyak bikin portofolio
+5. Jadi web developer handal
