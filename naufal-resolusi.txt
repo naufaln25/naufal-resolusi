@@ -1,4 +1,6 @@
 Naufal resolusi :
 1. Khatam HTML, CSS, Javascript
 2. Bisa React js dan React Native
-4. Bisa PHP dan Frameworknya (Codeigniter)
+3. Bisa PHP dan Frameworknya (Codeigniter)
+4. Khatam Laravel
+5. Banyak bikin portofolio
